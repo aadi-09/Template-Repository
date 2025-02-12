@@ -1,38 +1,60 @@
-# Template Repository  
+# Template Repository
 
-This is a *Template Repository* containing a basic folder structure and some placeholder files. Commit and modify it as per your requirements.  
+This is a **Template Repository** containing a basic folder structure and placeholder files to help kickstart your project. Feel free to clone, modify, and extend it to suit your needs.
 
-> This repository is bound by the **MIT License**, meaning we are not liable for how this template repository and its structure are used.  
+## Table of Contents
+- [Features](#features)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Changelog](#changelog)
 
-## Features  
-- Predefined folder structure for easy organization.  
-- Placeholder files to help you get started quickly.  
-- Licensed under MIT for complete freedom of use.  
+## Features
+- Organized folder structure (assets, components, pages)
+- Starter documentation and guidelines
+- MIT License for complete freedom of use
 
-## Usage  
+## Usage
 
-### Clone the Repository  
+### Clone the Repository
 ```bash
 git clone https://github.com/your-username/template-repository.git
 ```
 
-### Modify the Structure  
-```bash
-# Open the project in your preferred editor and make changes.
-# Example: If using VS Code
-code template-repository
-```
+### Customize the Template
+- Modify the folder structure and placeholder files as needed.
+- Follow the [Getting Started Guide](docs/getting-started.md) in the docs folder for more details.
 
-### Commit and Push Your Changes  
+### Commit and Push Your Changes
 ```bash
 git add .
-git commit -m "Customized the template"
+git commit -m "Customize the template"
 git push origin main
 ```
 
-## License  
-```text
-This repository is licensed under the MIT License, which allows you to use, modify, and distribute it freely without any liability or restrictions.
+## Folder Structure
+```
+template-repository/
+├── assets/
+├── components/
+├── pages/
+├── docs/
+│   ├── getting-started.md
+│   ├── customization.md
+│   └── troubleshooting.md
+├── .gitignore
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+└── CHANGELOG.md
 ```
 
----
+## Contributing
+We welcome contributions from everyone! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
+## License
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Changelog
+A summary of changes is maintained in the [CHANGELOG.md](CHANGELOG.md).
