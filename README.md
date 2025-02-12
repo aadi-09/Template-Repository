@@ -1,4 +1,4 @@
-# Template Repository
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Template_Repository-181717?style=for-the-badge&logo=github)](https://github.com/aadi-09/template-repository)
 
 This is a **Template Repository** containing a basic folder structure and placeholder files to help kickstart your project. Feel free to clone, modify, and extend it to suit your needs.
 
